@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MoviesRCM</string>
+    <string name="msg_add">¿Desea agregar una película?</string>
+    <string name="msg_delete">¿Estás seguro de eliminar: </string>
+    <string name="btn_view_url">Ver el enlace</string>
+    <string name="btn_add_movie">Agregar película</string>
+    <string name="btn_ace_dialog">Aceptar</string>
+    <string name="btn_can_dialog">Cancelar</string>
+    <string name="movie_bohemian">Bohemian Rhapsody</string>
+    <string name="movie_godzilla">Godzilla 2</string>
+    <string name="movie_it">It: capítulo dos</string>
+    <string name="movie_fast">Rápidos y furiosos: Hobbs y Shaw</string>
+    <string name="movie_twoMeters">A dos metros de ti</string>
+    <string name="movie_doctor">The Good Doctor</string>
+    <string name="movie_vikings">Vikingos</string>
+    <string name="movie_3">3%</string>
+    <string name="movie_jurassic">Jurassic World: Campamento Cretácico</string>
+    <string name="movie_elite">Élite</string>
+    <string name="movie_movie">Película</string>
+    <string name="movie_serie">Serie</string>
+
+    <string name="det_bohemian">Freddie Mercury desafía los estereotipos y se convierte en uno de los vocalistas más reconocidos de la música mundial. Después de dejar la banda Queen para seguir una carrera como solista, Mercury se reúne con la banda para dar una de las mejores actuaciones en la historia del rock n roll.</string>
+    <string name="det_godzilla">Las aventuras de unos criptzóologos de una agencia mientras tratan de enfrentarse a unos monstruos entre los que se encuentra el propio Godzilla. Entre todos intentarán frenar a estas criaturas que harán todo lo posible por sobrevivir.</string>
+    <string name="det_it">En el misterioso pueblo de Derry, un payaso llamado Pennywise vuelve 27 años después para atormentar a los ahora adultos miembros del Club de los Perdedores, que se encuentran alejados unos de otros.</string>
+    <string name="det_fast">El policía Luke Hobbs se une al mercenario Deckard Shaw para luchar contra un terrorista que posee una fuerza sobrenatural, una mente brillante y un patógeno letal que podría aniquilar a la mitad de la población mundial.</string>
+    <string name="det_twoMeters">Stella, de 17 años, está ingresada en un hospital porque padece fibrosis quística. Su monótona existencia cambia cuando llega Will, un adolescente con la misma dolencia. Sin embargo, las normas del hospital prohíben el contacto entre ellos.</string>
+    <string name="det_doctor">Un cirujano joven y autista que padece el síndrome del sabio empieza a trabajar en un hospital prestigioso. Allá tendrá que vencer el escepticismo con el que sus colegas lo reciben.</string>
+    <string name="det_vikings">Las aventuras de Ragnar Lothbrok, un vikingo agricultor, mientras asciende para convertirse en el rey de los vikingos.</string>
+    <string name="det_3">En un futuro no muy lejano, los ciudadanos luchan por formar parte del grupo de los privilegiados y así evitar caer en la devastación.</string>
+    <string name="det_jurassic">Unos adolescentes asisten a un campamento de aventuras en el lado opuesto de la isla Nublar y deben unirse para sobrevivir cuando los dinosaurios causan estragos en la isla.</string>
+    <string name="det_elite">Las Encinas es el colegio más exclusivo de España, el lugar donde estudian los hijos de la élite y donde acaban de ser admitidos tres jóvenes de clase baja, procedentes de un colegio público en ruinas.</string>
+
+
+</resources>

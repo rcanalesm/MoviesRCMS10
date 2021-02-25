@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MoviesRCM</string>
+    <string name="msg_add">Do you want to add a movie?</string>
+    <string name="msg_delete">Are you sure to delete:</string>
+    <string name="btn_view_url">See the link</string>
+    <string name="btn_add_movie">Add movie</string>
+    <string name="btn_ace_dialog">Accept</string>
+    <string name="btn_can_dialog">Cancel</string>
+    <string name="movie_bohemian">Bohemian Rhapsody</string>
+    <string name="movie_godzilla">Godzilla 2</string>
+    <string name="movie_it">It: chapter two</string>
+    <string name="movie_fast">Fast and Furious: Hobbs and Shaw</string>
+    <string name="movie_twoMeters">Two meters from you</string>
+    <string name="movie_doctor">The Good Doctor</string>
+    <string name="movie_vikings">Vikings</string>
+    <string name="movie_3">3%</string>
+    <string name="movie_jurassic">Jurassic World: Cretaceous Camp</string>
+    <string name="movie_elite">Elite</string>
+    <string name="movie_movie">Movie</string>
+    <string name="movie_serie">Serie</string>
+
+    <string name="det_bohemian">Freddie Mercury defies stereotypes and becomes one of the most recognized vocalists in world music. After leaving the band Queen to pursue a solo career, Mercury reunites with the band to give one of the best performances in rock n roll history.</string>
+    <string name="det_godzilla">The adventures of some cryptzologists from an agency as they try to confront monsters including Godzilla himself. Together they will try to stop these creatures who will do everything possible to survive.</string>
+    <string name="det_it">In the mysterious town of Derry, a clown named Pennywise returns 27 years later to torment the now-grown members of the Losers Club, who find themselves estranged from each other.</string>
+    <string name="det_fast">Police officer Luke Hobbs teams up with mercenary Deckard Shaw to fight a terrorist possessing supernatural strength, a brilliant mind and a deadly pathogen that could wipe out half the worlds population.</string>
+    <string name="det_twoMeters">Stella, 17, is admitted to a hospital with cystic fibrosis. His monotonous existence changes when Will, a teenager with the same ailment, arrives. However, hospital regulations prohibit contact between them.</string>
+    <string name="det_doctor">A young autistic surgeon with sage syndrome begins work at a prestigious hospital. There he will have to overcome the skepticism with which his colleagues receive him.</string>
+    <string name="det_vikings">The adventures of Ragnar Lothbrok, a Viking farmer, as he rises to become the King of the Vikings.</string>
+    <string name="det_3">In the not too distant future, citizens fight to be part of the group of the privileged and thus avoid falling into devastation.</string>
+    <string name="det_jurassic">Teenagers attend an adventure camp on the opposite side of Isla Nublar and must band together to survive when dinosaurs wreak havoc on the island.</string>
+    <string name="det_elite">Las Encinas is the most exclusive school in Spain, the place where the children of the elite study and where three lower-class young people from a public school in ruins have just been admitted.</string>
+
+
+</resources>
